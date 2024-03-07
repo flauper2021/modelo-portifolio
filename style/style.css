@@ -181,7 +181,7 @@ body {
         }
 
         .rodape {
-            color:black;
+            color:var(--cor-secundaria);
             font-size: .5rem;
         }
 
