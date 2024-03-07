@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .apresentacao__conteudo {    
     display: flex;
     flex-direction: column;
@@ -6,4 +7,14 @@
 
 .apresentacao__conteudo__texto__lista {
     padding: 0 0 0 10vh;
+=======
+.apresentacao__conteudo {    
+    display: flex;
+    flex-direction: column;
+    gap: 3.5vh;
+}
+
+.apresentacao__conteudo__texto__lista {
+    padding: 0 0 0 10vh;
+>>>>>>> 2510c3897c05ecf2372860a023c56d5ce44f3b9a
 }
