@@ -141,7 +141,7 @@ body {
 
 @media (max-width:1200px){
     .cabecalho {
-        padding: 10%;
+        padding: 8%;
     }
 
     .cabecalho__menu {
@@ -150,11 +150,41 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 5%
     }
 
     .apresentacao__conteudo {
         width:auto;
     }
 
+    @media (max-width: 500px){
+
+        .cabecalho__menu__link {           
+            font-size: .8rem;
+        }
+
+        .apresentacao__conteudo__titulo {
+            font-size: 1rem;            
+        }
+
+        .apresentacao__conteudo__texto {
+            font-size: .8rem;            
+        }
+
+        .apresentacao__links__subtitulo{
+            font-size: 1rem;
+        }
+
+        .apresentacao__links__navegacao {
+            font-size: .8rem;
+            width: 25vh;
+        }
+
+        .rodape {
+            font-size: .5rem;
+        }
+
+    }
+
 }
+
