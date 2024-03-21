@@ -11,6 +11,8 @@ Printe da pagina responsiva:
 
 ![image](assets/image/print-portifolio-redimensionado.png)
 
+link: https://modelo-portifolio-rho.vercel.app/index.html
+
 
 ## Ferramentas utilizadas:
 
